@@ -10,10 +10,11 @@
 		2. Open browser and enter IP Address: 192.168.1.177. Change IPv4 address to current network in Line 19 of code if necessary.
 		3. Wait for sensor calibration. Once complete, occupancy sensor should be fully functioning.
 		
-- libraries folder contains all relevant libraries
-- Testing ROSA:
 
-	test folder contains all function tests for ROSA:
+		- libraries folder contains all relevant libraries
+		
+		- Testing ROSA: test folder contains all function tests for ROSA:
+		
 		httpTest.ino: 			Tests ROSA's HTTP connection to local server
 		mazemapTest.ino: 		Test MazeMap overlay for eZone
 		sensorCalibrate.ino:	Calibrate PIR sensor and perform motion detection
