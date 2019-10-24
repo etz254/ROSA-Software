@@ -17,4 +17,4 @@
 		
 		httpTest.ino: 			Tests ROSA's HTTP connection to local server
 		mazemapTest.ino: 		Test MazeMap overlay for eZone
-		sensorCalibrate.ino:	Calibrate PIR sensor and perform motion detection
+		sensorCalibrate.ino:		Calibrate PIR sensor and perform motion detection
