@@ -11,4 +11,9 @@
 		3. Wait for sensor calibration. Once complete, occupancy sensor should be fully functioning.
 		
 - libraries folder contains all relevant libraries
-- test folder contains all function tests for ROSA
+- Testing ROSA:
+
+	test folder contains all function tests for ROSA:
+		httpTest.ino: 			Tests ROSA's HTTP connection to local server
+		mazemapTest.ino: 		Test MazeMap overlay for eZone
+		sensorCalibrate.ino:	Calibrate PIR sensor and perform motion detection
